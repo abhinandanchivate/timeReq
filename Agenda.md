@@ -1,3 +1,8 @@
+| Principle | Concerned With                | Violation Looks Like                        | Fix Approach                              |
+| --------- | ----------------------------- | ------------------------------------------- | ----------------------------------------- |
+| **LSP**   | Subclass behavior correctness | Subclass breaks contract of superclass      | Use correct inheritance, or composition   |
+| **ISP**   | Interface design              | Clients forced to implement unused methods  | Split into smaller interfaces             |
+| **DIP**   | Dependency management         | High-level code depends on concrete classes | Depend on interfaces, inject dependencies |
 
 ---
 
