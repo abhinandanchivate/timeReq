@@ -5,7 +5,7 @@
 
 ## 🎯 Context
 
-A team of experienced developers (15+ years) was tasked with modernizing a legacy e-commerce order fulfillment system — **"eComX"** — serving B2B clients globally. Over the years, the system grew complex, monolithic, and brittle, heavily violating **SOLID** principles.
+A team of experienced developers () was tasked with modernizing a legacy e-commerce order fulfillment system — **"eComX"** — serving B2B clients globally. Over the years, the system grew complex, monolithic, and brittle, heavily violating **SOLID** principles.
 
 Their experience primarily came from pre-microservices era, heavy use of **J2EE**, **stored procedures**, and **transaction-heavy designs** — leading to misinterpretations of modern OOP and design principles.
 
